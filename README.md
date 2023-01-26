@@ -63,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Enemerable] <a name="about-project"></a>
+# 📖 Enemerable <a name="about-project"></a>
 
 > In this pair programming project, we tried to understand ruby syntax and get solidify our understandin by creatin our oun enumerables.
 
