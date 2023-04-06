@@ -1,4 +1,4 @@
-require_relative './my_enumerable'
+require_relative './MyEnumerable'
 
 class MyList
   attr_accessor :list
@@ -15,7 +15,7 @@ class MyList
 end
 
 # Create our list
-mylist = MyList.new(1, 2, 3, 4)
+mylist = MyList.new(1, 2, 3, 4, 5, 6, 7, 8)
 
 # Test #all?
 mylist.all? { |e| e < 5 }
