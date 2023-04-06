@@ -15,7 +15,7 @@ class MyList
 end
 
 # Create our list
-mylist = MyList.new(1, 2, 3, 4, 5, 6, 7, 8)
+mylist = MyList.new(1, 2, 3, 4)
 
 # Test #all?
 mylist.all? { |e| e < 5 }
